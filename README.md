@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">
+  Welcome to <b>DEX Custom Team</b>!
+</h2>
 
-<!--
-**DEX-Custom-Team/DEX-Custom-Team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+  Projects
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+  <tr>
+    <td align="center">Project</td>
+    <td align="center">Version</td>
+    <td align="center">Status</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Project-Custom%20by%20DEX%20team%20%5BBETA%5D-blue" alt="Custom by DEX team [BETA]" /></a></td>
+    <td><img src="https://img.shields.io/badge/Release-v1.0-dark%20green" alt="Latest release" /></a></td>
+    <td><img src="https://img.shields.io/badge/Development-WIP-dark%20green" alt="Development Status" /></a></td>
+  </tr>
+</table>
